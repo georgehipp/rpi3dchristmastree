@@ -1,4 +1,4 @@
-rpi-ip = 192.168.0.73
+rpi-ip = 192.000.000.000
 rpi-user = pi
 
 build:
