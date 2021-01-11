@@ -27,19 +27,16 @@ If using a Raspbery Pi 2 or older, update Makefile to GOARM=6
 
     ./christmastree -h
     
-    -blink
+    -blink (default false)
     Enable blink effect for full tree. Use speed to adjust blink speed.
-    (default false)
 
-    -speed int
+    -speed int (default 500)
     Delay for roation steps in milliseconds.
-    (default 500)
 
-    -star
+    -star (default true)
     Tree star light on.
-    (default true)
 
-    -style string
+    -style string (default tree)
     Use tree, branch, side or off to select lighting style.
     
     Examples:
