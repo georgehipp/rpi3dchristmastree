@@ -1,8 +1,5 @@
 # Raspberry Pi 3d Christmas Tree 
 
-This repository contains a collection of Go programs and libraries that
-demonstrate the language, standard libraries, and tools.
-
 Go code to support the [Raspberry Pi 3d Chistmas Tree](https://thepihut.com/products/3d-xmas-tree-for-raspberry-pi) as a learning alternative to the provided python code. 
 Relies on [Gobot.io](https://gobot.io/)
 
