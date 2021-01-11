@@ -25,7 +25,8 @@ If using a Raspbery Pi 2 or older, update Makefile to GOARM=6
 
 ## Usage of ./christmastree:
 
-    christmastree -h
+    ./christmastree -h
+    
     -blink
     Enable blink effect for full tree. Use speed to adjust blink speed.
     (default false)
