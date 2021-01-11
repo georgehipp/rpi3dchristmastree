@@ -43,7 +43,7 @@ If using a Raspbery Pi 2 or older, update Makefile to GOARM=6
         Turn Off Tree:
         ./christmastree -style=off
     
-        Blink whole tree with blinking start:
+        Blink whole tree with blinking star:
         ./christmastree -star=true -style=tree -blink=true -speed=250
          (default "tree")
 
