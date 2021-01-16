@@ -5,6 +5,8 @@ Relies on [Gobot.io](https://gobot.io/)
 
 ## Example Usage
 
+![](images/rpi_christmastree.gif)
+
 ### Download, Build and Deploy with all Lights
 
     git clone
