@@ -7,6 +7,13 @@ Relies on [Gobot.io](https://gobot.io/)
 
 ![](images/rpi_christmastree.gif)
 
+## Quickstart
+
+ssh to your Raspberry Pi (Must be version 3 or 4)
+
+    wget https://github.com/georgehipp/rpi3dchristmastree/releases/download/v1.0.0/christmastree
+    ./christmastree -star=true -style=tree
+
 ### Download, Build and Deploy with all Lights
 
     git clone
