@@ -12,6 +12,7 @@ Relies on [Gobot.io](https://gobot.io/)
 ssh to your Raspberry Pi (Must be version 3 or 4)
 
     wget https://github.com/georgehipp/rpi3dchristmastree/releases/download/v1.0.0/christmastree
+    chmod +x christmastree
     ./christmastree -star=true -style=tree
 
 ### Download, Build and Deploy with all Lights
