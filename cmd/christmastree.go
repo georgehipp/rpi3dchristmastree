@@ -1,4 +1,4 @@
-package christmastree
+package main
 
 import (
 	"flag"
